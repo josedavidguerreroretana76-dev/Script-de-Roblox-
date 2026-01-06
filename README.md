@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ceedif/Nw_Hub/refs/heads/main/Nw_Scrip"))()
+loadstring(gamemusclelegends:HttpGet("https://raw.githubusercontent.com/Ceedif/val_joe/refs/heads/main/Nw_Scrip"))()
