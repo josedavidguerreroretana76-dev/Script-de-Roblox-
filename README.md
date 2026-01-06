@@ -1,2 +1,1 @@
-# Script-de-Roblox-
-Para kills en muscle legends 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ceedif/Nw_Hub/refs/heads/main/Nw_Scrip"))()
